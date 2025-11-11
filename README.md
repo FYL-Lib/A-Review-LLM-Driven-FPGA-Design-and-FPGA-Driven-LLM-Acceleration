@@ -108,10 +108,16 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 40| [Hardware Acceleration of Transformer Networks using FPGAs](https://ieeexplore.ieee.org/document/9976354/)| 2022|| 14|
 | 41| [An Efficient Hardware Accelerator for Sparse Transformer Neural Networks](https://ieeexplore.ieee.org/document/9937659/)| 2022|| 28|
 | 42| [A Length Adaptive Algorithm-Hardware Co-design of Transformer on FPGA Through Sparse Attention and Dynamic Pipelining](http://arxiv.org/abs/2208.03646)| 2022|| 71|
-| 43| | 2022|| |
-| 44| | 2022|| |
-| 45| | 2022|| |
-| 46| | 2022|| |
+| 43| [An FPGA-Based Transformer Accelerator Using Output Block Stationary Dataflow for Object Recognition Applications](https://ieeexplore.ieee.org/document/9848824/)| 2022|| 39|
+| 44| [TRAC: Compilation-Based Design of Transformer Accelerators for FPGAs](https://ieeexplore.ieee.org/document/10035242/)| 2022|| 15|
+| 45| [DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation](https://ieeexplore.ieee.org/abstract/document/9923883)| 2022|| 133|
+| 46| [EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers](https://doi.org/10.3390/electronics11213550)| 2022|| 17|
+| 47| [Accommodating Transformer onto FPGA: Coupling the Balanced Model Compression and FPGA-Implementation Optimization](https://dl.acm.org/doi/10.1145/3453688.3461739)| 2021|| |
+| 48| [Accelerating Transformer-based Deep Learning Models on FPGAs using Column Balanced Block Pruning](https://ieeexplore.ieee.org/document/9424344/)| 2021|| 128|
+| 49| [Efficient Methods for Mapping Neural Machine Translator on FPGAs](10.1109/TPDS.2020.3047371)| 2021|| 25|
+| 50| [Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing](10.23919/DATE51398.2021.9474043)| 2021|| 82|
+| 51| [NPE: An FPGA-based Overlay Processor for Natural Language Processing]()| 2021|| 100|
+| 52| | 2021|| |
 
 ## 3. License
 This repository is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
