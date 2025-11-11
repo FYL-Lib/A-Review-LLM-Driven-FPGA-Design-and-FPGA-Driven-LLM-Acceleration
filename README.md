@@ -81,7 +81,37 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 13| [AccLLM: Accelerating Long-Context LLM Inference Via Algorithm-Hardware Co-Design](http://arxiv.org/abs/2505.03745)| 2025|| 3|
 | 14| [FastMamba: A High-Speed and Efficient Mamba Accelerator on FPGA with Accurate Quantization](http://arxiv.org/abs/2505.18975)| 2025|| 1|
 | 15| [An Efficient FPGA-Based Hardware Accelerator of Fully Quantized Mamba-2](https://ieeexplore.ieee.org/abstract/document/11008931)| 2025|[code](https://github.com/tommyip/mamba2-minimal)| |
-
+| 16| [Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference](https://doi.org/10.1145/3656177)| 2024|[code](https://github.com/cornell-zhang/allo/tree/main/examples)| 71|
+| 17| [FAMOUS: Flexible Accelerator for the Attention Mechanism of Transformer on UltraScale+ FPGAs](http://arxiv.org/abs/2409.14023)| 2024|| 5|
+| 18| [A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs](http://arxiv.org/abs/2411.18148)| 2024|[code](https://github.com/Kabir-Ehsan/Transformer_on_FPGA.git)| |
+| 19| [An FPGA-Based Transformer Accelerator With Parallel Unstructured Sparsity Handling for Question-Answering Applications](https://ieeexplore.ieee.org/document/10681589/)| 2024|| 3|
+| 20| [Energy Efficient FPGA-Based Accelerator for Dynamic Sparse Transformer](https://ieeexplore.ieee.org/document/10652850/)| 2024|| 4|
+| 21| [Energy Efficient FPGA-Based Binary Transformer Accelerator for Edge Devices](https://ieeexplore.ieee.org/document/10558631/)| 2024|| 8|
+| 22| [FNM-Trans: Efficient FPGA-based Transformer Architecture with Full N:M Sparsity](https://dl.acm.org/doi/10.1145/3649329.3656497)| 2024|| 3|
+| 23| [Enhancing Long Sequence Input Processing in FPGA-Based Transformer Accelerators through Attention Fusion](https://dl.acm.org/doi/10.1145/3649476.3658810)| 2024|| 8|
+| 24| [MR-Transformer: FPGA Accelerated Deep Learning Attention Model for Modulation Recognition](https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html)| 2024|| 1|
+| 25| [TransFRU: Efficient Deployment of Transformers on FPGA with Full Resource Utilization](https://ieeexplore.ieee.org/abstract/document/10473976)| 2024|| 5|
+| 26| [ChatOPU: An FPGA-based Overlay Processor for Large Language Models with Unstructured Sparsity](https://dl.acm.org/doi/10.1145/3676536.3676761)| 2024|| 5|
+| 27| [LlamaF: An Efficient Llama2 Architecture Accelerator on Embedded FPGAs](https://ieeexplore.ieee.org/abstract/document/10811385)| 2024|| 16|
+| 28| [GLITCHES: GPU-FPGA LLM Inference Through a Collaborative Heterogeneous System](https://ieeexplore.ieee.org/abstract/document/10938498)| 2024|| 2|
+| 29| [FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs](https://doi.org/10.1145/3626202.3637562)| 2024|[code](https://github.com/meta-pytorch/gpt-fast.git)| 129|
+| 30| [Designing Efficient LLM Accelerators for Edge Devices](http://arxiv.org/abs/2408.00462)| 2024|| 21|
+| 31| [Co-design of a TinyLLM using Programmable Logic and Software on an FPGA](https://ieeexplore.ieee.org/abstract/document/10658754)| 2024|| 1|
+| 32| [Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](http://arxiv.org/abs/2410.04466)| 2024|| 57|
+| 33| [Hardware Acceleration of LLMs: A comprehensive survey and comparison](http://arxiv.org/abs/2409.03384)| 2024|| 14|
+| 34| [A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks](https://dl.acm.org/doi/10.1145/3564606)| 2023|| 35|
+| 35| [FET-OPU: A Flexible and Efficient FPGA-Based Overlay Processor for Transformer Networks](https://ieeexplore.ieee.org/document/10323752/)| 2023|| 18|
+| 36| [HPTA: A High Performance Transformer Accelerator Based on FPGA](https://ieeexplore.ieee.org/document/10296316/)| 2023|| 24|
+| 37| [Transformer-OPU: An FPGA-based Overlay Processor for Transformer Networks](https://ieeexplore.ieee.org/abstract/document/10171578)| 2023|| 16|
+| 38| [Unified Accelerator for Attention and Convolution in Inference Based on FPGA](https://ieeexplore.ieee.org/document/10182145/)| 2023|| 17|
+| 39| [Optimizing Transformer Inference on FPGA: A Study on Hardware Acceleration using Vitis HLS](https://urn.fi/URN:NBN:fi:aalto-202309035492)| 2023|| 3|
+| 40| [Hardware Acceleration of Transformer Networks using FPGAs](https://ieeexplore.ieee.org/document/9976354/)| 2022|| 14|
+| 41| [An Efficient Hardware Accelerator for Sparse Transformer Neural Networks](https://ieeexplore.ieee.org/document/9937659/)| 2022|| 28|
+| 42| [A Length Adaptive Algorithm-Hardware Co-design of Transformer on FPGA Through Sparse Attention and Dynamic Pipelining](http://arxiv.org/abs/2208.03646)| 2022|| 71|
+| 43| | 2022|| |
+| 44| | 2022|| |
+| 45| | 2022|| |
+| 46| | 2022|| |
 
 ## 3. License
 This repository is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
