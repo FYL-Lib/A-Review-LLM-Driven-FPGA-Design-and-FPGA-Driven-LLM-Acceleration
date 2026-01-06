@@ -59,7 +59,7 @@ All data are sourced from Google Scholar. We will continue to update the data re
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|------|------------|
 | 1| [SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model](10.1109/ISEDA65950.2025.11100410)| 2025|| 37|
 | 2| [HDLdebugger: Streamlining HDL debugging with Large Language Models](https://doi.org/10.1145/3735638)| 2025|| 58|
-| 3| [C2HLSC: Leveraging Large Language Models to Bridge the Software-to-Hardware Design Gap]([https://doi.org/10.1145/3734524](https://doi.org/10.1145/3734524)| 2025|| 12|
+| 3| [C2HLSC: Leveraging Large Language Models to Bridge the Software-to-Hardware Design Gap](https://doi.org/10.1145/3734524)| 2025|| 12|
 | 4| [OPL4GPT: An Application Space Exploration of Optimal Programming Language for Hardware Design by LLM](https://doi.org/10.1145/3658617.3697621)| 2025|| 6|
 | 5| [HaVen: Hallucination-Mitigated LLM for Verilog Code Generation Aligned with HDL Engineers](10.23919/DATE64628.2025.10993072)| 2025|| 22|
 | 6| [HiVeGen -- Hierarchical LLM-based Verilog Generation for Scalable Chip Design](10.1109/ICLAD65226.2025.00031)| 2025|| 8|
