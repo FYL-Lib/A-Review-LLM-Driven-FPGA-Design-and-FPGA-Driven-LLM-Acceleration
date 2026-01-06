@@ -57,16 +57,30 @@ All data are sourced from Google Scholar. We will continue to update the data re
 
 | NO. |Title| Year | code | cites |
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|------|------------|
-| 1| Towards Lifelong Learning of Large Language Models A Survey | 2025|[code](https://github.com/Richielee630/TMMA.git)| 1|
-| 2| Recent Advances of Foundation Language Models-based Continual Learning A Survey| 2025|| 10|
-| 3| A Comprehensive Survey of Continual Learning: Theory, Method and Application| 2024|| 851 |
-| 4| Continual Learning with Pre-Trained Models: A Survey| 2024|[code](https://github.com/sun-hailong/LAMDA-PILOT)| 75|
+| 1| [SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model](10.1109/ISEDA65950.2025.11100410)| 2025|| 37|
+| 2| [HDLdebugger: Streamlining HDL debugging with Large Language Models](https://doi.org/10.1145/3735638)| 2025|| 58|
+| 2| [C2HLSC: Leveraging Large Language Models to Bridge the Software-to-Hardware Design Gap](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
 
 ### 2. FPGA-Driven LLM Accelerators
 
 | NO. |Title| Year | code | cites |
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|------|------------|
-| 1| [Design and Implementation of an FPGA-Based Hardware Accelerator for Transformer](http://arxiv.org/abs/2503.16731) | 2025|[code](https://github.com/Richielee630/TMMA.git)| 1|
+| 1| [Design and Implementation of an FPGA-Based Hardware Accelerator for Transformer](http://arxiv.org/abs/2503.16731) | 2025|[code](https://github.com/Richielee630/TMMA.git)| 2025||1|
 | 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
 | 3| [FPGA Acceleration With Hessian-Based Comprehensive Intra-Layer Mixed-Precision Quantization for Transformer Models](https://ieeexplore.ieee.org/document/10973048/)| 2025|| |
 | 4| [eMamba: Efficient Acceleration Framework for Mamba Models in Edge Computing](https://doi.org/10.1145/3762190)| 2025|| 1|
@@ -117,7 +131,8 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 49| [Efficient Methods for Mapping Neural Machine Translator on FPGAs](10.1109/TPDS.2020.3047371)| 2021|| 25|
 | 50| [Hardware Acceleration of Fully Quantized BERT for Efficient Natural Language Processing](10.23919/DATE51398.2021.9474043)| 2021|| 82|
 | 51| [NPE: An FPGA-based Overlay Processor for Natural Language Processing]()| 2021|| 100|
-| 52| | 2021|| |
+| 52| [FTRANS: energy-efficient acceleration of transformers using FPGA](https://doi.org/10.1145/3370748.3406567)| 2020|| 258|
+| 53| [Hardware Accelerator for Multi-Head Attention and Position-Wise Feed-Forward in the Transformer](10.1109/SOCC49529.2020.9524802)| 2020|| 181|
 
 ## 3. License
 This repository is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
