@@ -59,22 +59,29 @@ All data are sourced from Google Scholar. We will continue to update the data re
 |-----|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|------|------------|
 | 1| [SpecLLM: Exploring Generation and Review of VLSI Design Specification with Large Language Model](10.1109/ISEDA65950.2025.11100410)| 2025|| 37|
 | 2| [HDLdebugger: Streamlining HDL debugging with Large Language Models](https://doi.org/10.1145/3735638)| 2025|| 58|
-| 2| [C2HLSC: Leveraging Large Language Models to Bridge the Software-to-Hardware Design Gap](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
-| 2| [F³: An FPGA-based Transformer Fine-tuning Accelerator with Flexible Floating Point Format](https://ieeexplore.ieee.org/document/10945317/)| 2025|| 1|
+| 3| [C2HLSC: Leveraging Large Language Models to Bridge the Software-to-Hardware Design Gap]([https://doi.org/10.1145/3734524](https://doi.org/10.1145/3734524)| 2025|| 12|
+| 4| [OPL4GPT: An Application Space Exploration of Optimal Programming Language for Hardware Design by LLM](https://doi.org/10.1145/3658617.3697621)| 2025|| 6|
+| 5| [HaVen: Hallucination-Mitigated LLM for Verilog Code Generation Aligned with HDL Engineers](10.23919/DATE64628.2025.10993072)| 2025|| 22|
+| 6| [HiVeGen -- Hierarchical LLM-based Verilog Generation for Scalable Chip Design](10.1109/ICLAD65226.2025.00031)| 2025|| 8|
+| 7| [LintLLM: An Open-Source Verilog Linting Framework Based on Large Language Models](https://doi.org/10.48550/arXiv.2502.10815)| 2025|| 4|
+| 8| [MAGE: A Multi-Agent Engine for Automated RTL Code Generation](10.1109/DAC63849.2025.11133191)| 2025|| 35|
+| 9| [Paradigm-Based Automatic HDL Code Generation Using LLMs](10.1109/ISQED65160.2025.11014391)| 2025|| 14|
+| 10| [VRank: Enhancing Verilog Code Generation from Large Language Models via Self-Consistency](10.1109/ISQED65160.2025.11014398)| 2025|| 11|
+| 11| [A Multi-Expert Large Language Model Architecture for Verilog Code Generation](10.1109/LAD62341.2024.10691683)| 2024|| 36|
+| 12| [AutoVCoder: A Systematic Framework for Automated Verilog Code Generation using LLMs](10.1109/ICCD63220.2024.00033)| 2024|| 44|
+| 13| [BetterV: Controlled Verilog Generation with Discriminative Guidance](https://doi.org/10.48550/arXiv.2402.03375)| 2024|| 130|
+| 14| [CodeV: Empowering LLMs for Verilog Generation through Multi-Level Summarization](https://doi.org/10.48550/arXiv.2407.10424)| 2024|| 60|
+| 15| [Data is all you need: Finetuning LLMs for Chip Design via an Automated design-data augmentation framework](https://doi.org/10.1145/3649329.3657356)| 2024|| 78|
+| 16| [Exploring Large Language Models for Verilog Hardware Design Generation](10.1109/IPDPSW63119.2024.00034)| 2024|| 3|
+| 17| [FLAG: Formula-LLM-Based Auto-Generator for Baseband Hardware](10.1109/ISCAS58744.2024.10558482)| 2024|| 8|
+| 18| [LLM for Complex Signal Processing in FPGA-based Software Defined Radios: A Case Study on FFT](10.1109/VTC2024-Fall63153.2024.10757597)| 2024|| 1|
+| 19| [OriGen:Enhancing RTL Code Generation with Code-to-Code Augmentation and Self-Reflection](https://doi.org/10.1145/3676536.3676830)| 2024|| 69|
+| 20| [PyHDL-Eval: An LLM Evaluation Framework for Hardware Design Using Python-Embedded DSLs](https://doi.org/10.1145/3670474.3685948)| 2024|| 18|
+| 21| [RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique](10.1109/TCAD.2024.3483089)| 2024|| 83|
+| 22| [Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction](https://doi.org/10.48550/arXiv.2406.00115)| 2024|| 38|
+| 23| [UVLLM: An Automated Universal RTL Verification Framework using LLMs](https://doi.org/10.48550/arXiv.2411.16238)| 2024|| 19|
+| 24| [VeriGen: A Large Language Model for Verilog Code Generation](https://doi.org/10.1145/3643681)| 2024|| 324| 
+
 
 ### 2. FPGA-Driven LLM Accelerators
 
