@@ -15,31 +15,29 @@
 ### 2. Preliminaries
 
 
-### 3. Systematic Literature Review (SLR) Methodology
+### 3. Strategies and Evaluation Framework for LLM-driven FSL Generation
 
+#### • Approach For Enhencing LLM Generation
 
-### 4. Review Findings
+#### • Metrics for Evaluating FSL Code Generation
 
-#### • Core Challenges in CL
+#### • Benchmarks Used to Evaluate FSL Generated Code
 
+### 4. FPGA-based LLM accelerators
 
-#### • Learning methods for CL
+#### • Model Compression
 
+#### • Algorithmic Optimization
 
-#### • Settings for CL
+#### • Hardware Architecture Acceleration
 
+#### • System Optimization Approach
 
-#### • Evaluation Metrics
+### 5. Performance Comparison
 
+#### • Performance in FSL Code Generation
 
-### 5. Discussion
-
-
-#### • Real-world applications of CL
-
-
-#### • Future Directions
-
+#### • Performance of FPGA-Based LLM Accelerators
 
 ### 6. Conclusion
 
