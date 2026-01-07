@@ -175,5 +175,26 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 52| [FTRANS: energy-efficient acceleration of transformers using FPGA](https://doi.org/10.1145/3370748.3406567)| 2020||
 | 53| [Hardware Accelerator for Multi-Head Attention and Position-Wise Feed-Forward in the Transformer](10.1109/SOCC49529.2020.9524802)| 2020||
 
+### 3. Summary of the Related Surveys
+
+| NO. |Title| Year | code |
+|-----|:------------------------------------------------------------------------------------------------------------------------------------:|:----:|------|
+| 1| [Accelerating language giants: A survey of optimization strategies for LLM inference on hardware platforms](https://doi.org/10.1016/j.sysarc.2026.103690 "Persistent link using digital object identifier")| 2026||
+| 2| [A Component-Centric Perspective on Hardware Accelerators for LLMs](10.1109/ACCESS.2025.3609769)| 2025||
+| 3| [A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models](10.1109/MCAS.2024.3476008)| 2025||
+| 4| [A Survey on Hardware Accelerators for Large Language Models](https://doi.org/10.3390/app15020586)| 2025||
+| 5| [Mobile Edge Intelligence for Large Language Models: A Contemporary Survey](10.1109/COMST.2025.3527641)| 2025||
+| 6| [Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems](https://doi.org/10.1145/3754448)| 2025||
+| 7| [A Comprehensive Survey of Compression Algorithms for Language Models](https://doi.org/10.48550/arXiv.2401.15347)| 2024||
+| 8| [A survey of FPGA and ASIC designs for transformer inference acceleration and optimization](https://doi.org/10.1016/j.sysarc.2024.103247 "Persistent link using digital object identifier")| 2024||
+| 9| [A Survey on Efficient Inference for Large Language Models](https://doi.org/10.48550/arXiv.2404.14294)| 2024||
+| 10| [A Survey on Model Compression for Large Language Models](https://doi.org/10.1162/tacl_a_00704)| 2024||
+| 11| [Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference](https://doi.org/10.48550/arXiv.2406.08413)| 2024||
+| 12| [Hardware Acceleration of LLMs: A comprehensive survey and comparison](https://doi.org/10.48550/arXiv.2409.03384)| 2024||
+| 13| [Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](https://doi.org/10.48550/arXiv.2410.04466)| 2024||
+| 14| [Understanding the Potential of FPGA-Based Spatial Acceleration for Large Language Model Inference](https://doi.org/10.1145/3656177)| 2024||
+
+
+
 ## 3. License
 This repository is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
