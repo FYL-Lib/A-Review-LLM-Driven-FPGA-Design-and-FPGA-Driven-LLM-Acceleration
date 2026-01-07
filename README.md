@@ -81,6 +81,27 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 22| [Towards LLM-Powered Verilog RTL Assistant: Self-Verification and Self-Correction](https://doi.org/10.48550/arXiv.2406.00115)| 2024|| 38|
 | 23| [UVLLM: An Automated Universal RTL Verification Framework using LLMs](https://doi.org/10.48550/arXiv.2411.16238)| 2024|| 19|
 | 24| [VeriGen: A Large Language Model for Verilog Code Generation](https://doi.org/10.1145/3643681)| 2024|| 324| 
+| 26| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40|
+| 27| [Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models](https://doi.org/10.1145/3670474.3685953)| 2024|| 45| 
+| 28| [Evaluating Large Language Models for Automatic Register Transfer Logic Generation via High-Level Synthesis](https://doi.org/10.48550/arXiv.2408.02793)| 2024|| 13| 
+| 29| [HLSPilot: LLM-based High-Level Synthesis](https://doi.org/10.1145/3676536.3676781)| 2024|| 31| 
+| 30| [SynthAI: A Multi Agent Generative AI Framework for Automated Modular HLS Design Generation](https://doi.org/10.48550/arXiv.2405.16072)| 2024|| 7| 
+| 31| [Classification-Based Automatic HDL Code Generation Using LLMs](https://doi.org/10.48550/arXiv.2407.18326)| 2024|| 10| 
+| 32| [LLM-Aided Efficient Hardware Design Automation](https://doi.org/10.48550/arXiv.2410.18582)| 2024|| 22| 
+| 33| [LLM-aided explanations of EDA synthesis errors](10.1109/LAD62341.2024.10691721)| 2024|| 10| 
+| 34| [Combining LLM Code Generation with Formal Specifications and Reactive Program Synthesis](https://doi.org/10.48550/arXiv.2410.19736)| 2024|| 10| 
+| 35| [Research on the Application of Large Language Models in FPGA Verification Test Requirement Extraction](10.1109/ICDSCA63855.2024.10859460)| 2024|| 1| 
+| 36| [LLM-based Processor Verification: A Case Study for Neuromorphic Processor](10.23919/DATE58400.2024.10546707)| 2024|| 21| 
+| 37| [Using LLM such as ChatGPT for Designing and Implementing a RISC Processor: Execution, Challenges and Limitations](https://doi.org/10.48550/arXiv.2401.10364)| 2024|| 7| 
+| 38| [Guiding Large Language Models to Generate Computer-Parsable Content](https://doi.org/10.48550/arXiv.2404.05499)| 2024|| 7| 
+| 39| [Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS](https://doi.org/10.48550/arXiv.2402.03289)| 2024|| 68| 
+| 40| [Hardware Phi-1.5B: A Large Language Model Encodes Hardware Domain Specific Knowledge](10.1109/ASP-DAC58780.2024.10473927)| 2024|| 28| 
+| 41| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
+| 42| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
+| 43| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
+| 44| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
+| 45| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
+| 46| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024|| 40| 
 
 
 ### 2. FPGA-Driven LLM Accelerators
