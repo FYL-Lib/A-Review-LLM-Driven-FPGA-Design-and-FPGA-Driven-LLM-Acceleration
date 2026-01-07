@@ -96,12 +96,27 @@ All data are sourced from Google Scholar. We will continue to update the data re
 | 38| [Guiding Large Language Models to Generate Computer-Parsable Content](https://doi.org/10.48550/arXiv.2404.05499)| 2024||
 | 39| [Make Every Move Count: LLM-based High-Quality RTL Code Generation Using MCTS](https://doi.org/10.48550/arXiv.2402.03289)| 2024||
 | 40| [Hardware Phi-1.5B: A Large Language Model Encodes Hardware Domain Specific Knowledge](10.1109/ASP-DAC58780.2024.10473927)| 2024||
-| 41| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
-| 42| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
-| 43| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
-| 44| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
-| 45| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
-| 46| [VerilogReader: LLM-Aided Hardware Test Generation](10.1109/LAD62341.2024.10691801)| 2024||
+| 41| [ChIRAAG: ChatGPT Informed Rapid and Automated Assertion Generation](10.1109/ISVLSI61997.2024.00130)| 2024||
+| 42| [Evaluating LLMs for Hardware Design and Test](10.1109/LAD62341.2024.10691811)| 2024||
+| 43| [Natural Language to Verilog: Design of a Recurrent Spiking Neural Network using Large Language Models and ChatGPT](10.1109/ICONS62911.2024.00024)| 2024||
+| 44| [Rome was Not Built in a Single Step: Hierarchical Prompting for LLM-based Chip Design](https://doi.org/10.1145/3670474.3685964)| 2024||
+| 45| [Advanced Large Language Model (LLM)-Driven Verilog Development: Enhancing Power, Performance, and Area Optimization in Code Synthesis](https://doi.org/10.48550/arXiv.2312.01022)| 2023||
+| 46| [Large Language Models for Compiler Optimization](https://doi.org/10.48550/arXiv.2309.07062)| 2023||
+| 47| [Measuring the Impact of Programming Language Distribution](https://proceedings.mlr.press/v202/orlanski23a.html)| 2023||
+| 48| [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd40d0d65bfebb894ccc9ea822b47fa8-Paper-Conference.pdf)| 2023||
+| 49| [HDLGen-ChatGPT Case Study: RISC-V Processor VHDL and Verilog Model - Testbench and EDA Project Generation](https://doi.org/10.1145/3625223.3649280)| 2023||
+| 50| [Scope is all you need: Transforming LLMs for HPC Code](https://doi.org/10.48550/arXiv.2308.09440)| 2023||
+| 51| [A new design approach of hardware implementation through natural language entry](https://doi.org/10.1049/cim2.12087)| 2023||
+| 52| [GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models](10.1109/ICCAD57390.2023.10323953)| 2023||
+| 53| [Advanced Large Language Model (LLM)-Driven Verilog Development: Enhancing Power, Performance, and Area Optimization in Code Synthesis](https://doi.org/10.48550/arXiv.2312.01022)| 2023||
+| 54| [AutoChip: Automating HDL Generation Using LLM Feedback](https://doi.org/10.48550/arXiv.2311.04887)| 2023||
+| 55| [Benchmarking Large Language Models for Automated Verilog RTL Code Generation](10.23919/DATE56975.2023.10137086)| 2023||
+| 56| [Chip-Chat: Challenges and Opportunities in Conversational Hardware Design](https://doi.org/10.48550/arXiv.2305.13243)| 2023||
+| 57| [ChipGPT: How far are we from natural language hardware design](https://doi.org/10.48550/arXiv.2305.14019)| 2023||
+| 58| [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://doi.org/10.48550/arXiv.2311.00176)| 2023||
+| 59| [VerilogEval: Evaluating Large Language Models for Verilog Code Generation](10.1109/ICCAD57390.2023.10323812)| 2023||
+| 60| [A systematic evaluation of large language models of code](https://doi.org/10.1145/3520312.3534862)| 2022| [code](https://github.com/VHellendoorn/Code-LMs.git)|
+| 61| [Multi-lingual Evaluation of Code Generation Models](https://doi.org/10.48550/arXiv.2210.14868)| 2022| [code](https://github.com/amazon-research/mxeval)|
 
 
 ### 2. FPGA-Driven LLM Accelerators
