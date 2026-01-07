@@ -47,7 +47,7 @@
 
 This is the paper list of our paper [_Synergistic: A Survey of LLM-driven FPGA Design and FPGA-driven LLM Acceleration_](). 
 
-This repository covers a wide range of papers related to large model generation and FPGA-based accelerators published from 2011 to the present. It will provide all paper links and released code links to help researchers interested in this area, and it will continue to add useful resources to this repo.
+This repository covers a wide range of papers related to large model generation and FPGA-based accelerators published from 2020 to the present. It will provide all paper links and released code links to help researchers interested in this area, and it will continue to add useful resources to this repo.
 
 All data are sourced from Google Scholar. We will continue to update the data regularly in this repo.
 
