@@ -33,7 +33,11 @@
 
 #### • System Optimization Approach
 
+#### • Comparative Analysis and Discussion
+
 ### 5. Performance Comparison
+
+#### • How to Read the Performance Tables
 
 #### • Performance in FSL Code Generation
 
@@ -45,7 +49,7 @@
 
 ##  2. Literature Review
 
-This is the paper list of our paper [_Synergistic: A Survey of LLM-driven FPGA Design and FPGA-driven LLM Acceleration_](). 
+This is the paper list of our paper [_Towards Efficient Embedded Intelligence: A Survey of LLM-driven FPGA Design and FPGA-driven LLM Acceleration_](). 
 
 This repository covers a wide range of papers related to large model generation and FPGA-based accelerators published from 2020 to the present. It will provide all paper links and released code links to help researchers interested in this area, and it will continue to add useful resources to this repo.
 
